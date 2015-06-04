@@ -8,3 +8,4 @@
 4. 终端彩色输出　[https://github.com/aybabtme/color](https://github.com/aybabtme/color "https://github.com/aybabtme/color")
 5. Win系统服务　[https://bitbucket.org/kardianos/service/src](https://bitbucket.org/kardianos/service/src "https://bitbucket.org/kardianos/service")
 6. 打开网址或文件 [https://github.com/pkg/browser](https://github.com/pkg/browser "https://github.com/pkg/browser")
+7. 关键词匹配　[https://github.com/gansidui/ahocorasic](https://github.com/gansidui/ahocorasic "https://github.com/gansidui/ahocorasic")
